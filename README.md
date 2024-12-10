@@ -4,3 +4,4 @@ A place to test out the chainlink extension functionality
 Changes:
 * Added feature
 * Working on implementation
+* Made change
